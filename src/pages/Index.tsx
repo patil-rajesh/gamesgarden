@@ -87,7 +87,7 @@ const Index = () => {
           <div className="flex items-center gap-2 animate-scale-in-bounce">
             <Gamepad2 className="h-8 w-8 text-primary animate-float" />
             <h1 className="text-2xl font-bold bg-gradient-accent bg-clip-text text-transparent animate-gradient">
-              GameHub
+              GamesGarden
             </h1>
           </div>
           <nav className="flex items-center gap-4">
@@ -200,10 +200,10 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2 group cursor-pointer">
               <Gamepad2 className="h-6 w-6 text-primary group-hover:animate-float" />
-              <span className="font-semibold group-hover:text-primary transition-colors">GameHub</span>
+              <span className="font-semibold group-hover:text-primary transition-colors">GamesGarden</span>
             </div>
             <p className="text-sm text-muted-foreground hover:text-foreground transition-colors">
-              © 2024 GameHub. Built with passion for gaming.
+              © 2024 GamesGarden. Built with passion for gaming.
             </p>
           </div>
         </div>
